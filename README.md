@@ -15,5 +15,5 @@ How to load the extension in chrome?
 4. Select your `type-along-extension` folder.
 
 ## Examples
-![Example1](/type-along-extension/assets/example1.jpeg)
-![Example2](/type-along-extension/assets/example2.jpeg)
+![Example1](./assets/example1.jpeg)
+![Example2](./assets/example2.jpeg)
