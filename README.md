@@ -1,3 +1,5 @@
+HELLO WORLD
+
 # Type Along
 
 Type Along is a simple yet powerful Chrome extension designed to supercharge your learning. Just hover over any paragraph on a webpage, and a popup will appear—allowing you to read and type along at the same time. It’s an active way to absorb information, improve retention, and sharpen focus.
